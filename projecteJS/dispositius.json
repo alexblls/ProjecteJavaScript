@@ -1,0 +1,129 @@
+{
+    "dispositivos":{
+        "nevera": {
+            "enxufat": true,
+            "temperatura": 6,
+            "consum": 180
+        },
+        "congelador": {
+            "enxufat": true,
+            "temperatura": -18
+        },
+        "televisio": {
+            "enxufat": true,
+            "canal": 1,
+            "freqüencia": 482
+        },
+        "persianes": {
+            "pujar": true,
+            "baixar": false,
+            "zona": "habitacio"
+        },
+        "llums": {
+            "enxufat": true,
+            "zona": "cuina",
+            "consum": 0.014
+        },
+        "llavadora": {
+            "enxufat": true,
+            "tipoLlavat": 1,
+            "temps": 60,
+            "temperatura": 40,
+            "consum":579
+        },
+        "secadora": {
+            "enxufat": true,
+            "tipoSecat": 1,
+            "consum":270
+        },
+        "ordenador": {
+            "enxufat": true,
+            "temperatura":52
+        },
+        "climatitzador": {
+            "enxufat": true,
+            "temperatura": 20,
+            "modo": "fret",
+            "consum": 15,
+            "tipo": "conductes"
+        },
+        "plaquesSolars": {
+            "tipo": "llum",
+            "cantitatSol": 40,
+            "cantitatEnergia": 50
+        },
+        "calentador": {
+            "enxufat ": true,
+            "tipo ": "butano",
+            "temperatura ":32,
+            "consum ":2
+        },
+        "robotNeteja": {
+            "enxufat": true,
+            "modo": "auto",
+            "zonaNeteja": "cocina",
+            "duracion":78
+        },
+        "rentaplats": {
+            "enxufat": true,
+            "temperatura": 60,
+            "temps": 360,
+            "consum":250
+        },
+        "aspersors": {
+            "enxufat": true,
+            "zona": "patio trasero",
+            "tipoXorro": 2
+        },
+        "portaGaraje": {
+            "pujar": true,
+            "baixar": false
+        },
+        "forn": {
+            "enxufat": true,
+            "temperatura": 200,
+            "zonaCalenta": "dalt"
+        },
+        "microondes": {
+            "enxufat": true,
+            "temperatura": 200,
+            "modo": "descongelar",
+            "temps": 70,
+            "consum":0.10
+        },
+        "camaresVigilancia": {
+            "vigilant": true
+        },
+        "impresora": {
+            "enxufat": true,
+            "imprimint": false,
+            "papel": true,
+            "tintaColor": true,
+            "tintaNegra": true
+        },
+        "calefaccioWC": {
+            "enxufat": true,
+            "temperatura": 20
+        },
+        "caldera": {
+            "enxufat": true,
+            "temperatura": 23,
+            "combustible": 121,
+            "zona": "habitacio"
+        },
+        "store": {
+            "pujar": true,
+            "baixar": false
+        },
+        "ventiladors": {
+            "enxufat":true,
+            "velocitat":2
+        },
+        "vitro": {
+            "enxufat":true,
+            "foguers":3,
+            "consum":15,
+            "tipo":"induccio"
+        }
+    }
+}

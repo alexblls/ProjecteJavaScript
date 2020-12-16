@@ -1,0 +1,49 @@
+nav{
+    margin: 15px;
+}
+
+button{
+    background-color: transparent;
+    border: none;
+}
+
+#dispositius{
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.card{
+    margin: 10px;
+}
+
+#llistaDispos{
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+    /* grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 10px;
+    justify-content: center; */
+}
+
+#llistaDispos input{
+    width: 200px;
+    margin: 10px;
+}
+
+#contingut{
+    display: flex;
+    justify-content: center;
+}
+
+.contingutCanvas{
+
+    width: 70%;
+}
+
+#divBaixGrafic{
+    text-align: center;
+}
